@@ -73,8 +73,10 @@ Recommendations for event organizers
 📌 References
 
 Future Interns Task Details
+https://futureinterns.com/
 
 Kaggle – Student Feedback Survey Dataset
+https://www.kaggle.com/datasets/ruchi798/student-feedback-survey-responses
 
 Tutorials:
 
@@ -87,4 +89,5 @@ Data Visualization with Seaborn/Matplotlib
 👩‍💻 Author
 
 Abhijit Tele
+https://www.linkedin.com/in/abhijit-tele
 Future Interns – Data Science & Analytics Intern
